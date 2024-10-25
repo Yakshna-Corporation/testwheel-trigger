@@ -29,6 +29,14 @@
 		<url>https://github.com/Yakshna-Corporation/testwheel-trigger</url>
 		<tag>HEAD</tag>
 	</scm>
+
+	 <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>https://github.com/Yakshna-Corporation/testwheel-trigger/blob/main/LICENSE</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
